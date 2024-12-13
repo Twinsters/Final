@@ -48,37 +48,41 @@ namespace Integrador_2
             dtGripViEmpl.Rows.Clear();
             dtGripViEmpl.Columns.Clear();
             dtGripViEmpl.DataSource = bLLEmpleado.ListarTodo();
-            dtGripViEmpl.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
-            dtGripViEmpl.AlternatingRowsDefaultCellStyle.BackColor = Color.LightBlue;
-            dtGripViEmpl.Columns["Id"].DisplayIndex = 0;
-            dtGripViEmpl.Columns["Id"].HeaderText = "Codigo";
-            dtGripViEmpl.Columns["oDom"].HeaderText = "Domicilio";
-            dtGripViEmpl.Columns["Estado"].HeaderText = "Estado";
-            dtGripViEmpl.Columns["Pass"].HeaderText = "Contraseña";
-            dtGripViEmpl.Columns["Perfil"].HeaderText = "Cargo";
+            if(dtGripViEmpl.Rows.Count > 0)
+            {
+                dtGripViEmpl.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
+                dtGripViEmpl.AlternatingRowsDefaultCellStyle.BackColor = Color.LightBlue;
+                dtGripViEmpl.Columns["Id"].DisplayIndex = 0;
+                dtGripViEmpl.Columns["Id"].HeaderText = "Codigo";
+                dtGripViEmpl.Columns["oDom"].HeaderText = "Domicilio";
+                dtGripViEmpl.Columns["Estado"].HeaderText = "Estado";
+                dtGripViEmpl.Columns["Pass"].HeaderText = "Contraseña";
+                dtGripViEmpl.Columns["Perfil"].HeaderText = "Cargo";
 
-            DataGridViewImageColumn btnAcciones = new DataGridViewImageColumn
-            {
-                Name = "btnOpciones",
-                HeaderText = "Opciones",
-                Width = 60,
-            };
-            dtGripViEmpl.Columns.Add(btnAcciones);
-            Image eliminarImg = Properties.Resources.eliminar;
-            Image modificarImg = Properties.Resources.editar;
-            foreach (DataGridViewRow row in dtGripViEmpl.Rows)
-            {
-                if (row.IsNewRow) continue;
-                Bitmap cellImage = new Bitmap(60, 25);
-                using (Graphics g = Graphics.FromImage(cellImage))
+                DataGridViewImageColumn btnAcciones = new DataGridViewImageColumn
                 {
-                    int width = 30;
-                    int height = 25;
-                    g.DrawImage(modificarImg, new Rectangle(0, 0, width, height));
-                    g.DrawImage(eliminarImg, new Rectangle(width, 0, width, height));
+                    Name = "btnOpciones",
+                    HeaderText = "Opciones",
+                    Width = 60,
+                };
+                dtGripViEmpl.Columns.Add(btnAcciones);
+                Image eliminarImg = Properties.Resources.eliminar;
+                Image modificarImg = Properties.Resources.editar;
+                foreach (DataGridViewRow row in dtGripViEmpl.Rows)
+                {
+                    if (row.IsNewRow) continue;
+                    Bitmap cellImage = new Bitmap(60, 25);
+                    using (Graphics g = Graphics.FromImage(cellImage))
+                    {
+                        int width = 30;
+                        int height = 25;
+                        g.DrawImage(modificarImg, new Rectangle(0, 0, width, height));
+                        g.DrawImage(eliminarImg, new Rectangle(width, 0, width, height));
+                    }
+                    row.Cells["btnOpciones"].Value = cellImage;
                 }
-                row.Cells["btnOpciones"].Value = cellImage;
             }
+          
         }
         private void dtGripViEmpl_CellClick(object sender, DataGridViewCellEventArgs e)
         {

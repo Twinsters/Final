@@ -19,7 +19,7 @@ namespace Integrador_2
         BEDomicilio bEDomicilio;
         BEPerfil bEPerfil;
         BEEmpleado bEEmpleado;
-        BLLPerfil bllperfil;
+        BLLPerfil bllPerfil;
         public FmEmpleadosGuardar()
         {
             InitializeComponent();
@@ -28,7 +28,7 @@ namespace Integrador_2
             bLLEmpleado = new BLLEmpleado();
             bEPerfil = new BEPerfil();
             bEDomicilio = new BEDomicilio();
-            bllperfil = new BLLPerfil();
+            bllPerfil = new BLLPerfil();
         }
         public FmEmpleadosGuardar(BEEmpleado Usuario ,BEEmpleado obEEmpleado = null )
         {
@@ -48,7 +48,7 @@ namespace Integrador_2
         private void FmEmpleadosGuardar_Load(object sender, EventArgs e)
         {
             Limpiar();
-            CargarCombo();       
+            cargarDatos();       
             if(bEEmpleado.Id != 0)
             {
                 bEEmpleado = bLLEmpleado.ListarUno(bEEmpleado);
@@ -91,12 +91,12 @@ namespace Integrador_2
             txtSoloNum2.Text = null;
             txt_CalleEmp.Text = null;
         }
-        void CargarCombo()
+        void cargarDatos()
         {
-
+            BLLPerfil p = new BLLPerfil();
             try
             {
-                List<BEPerfil> listaPerfiles = bllperfil.buscarPerfiles();
+                List<BEPerfil> listaPerfiles = p.buscarPerfiles();
                 if (listaPerfiles.Count > 0)
                 {
                     cb_CargoEmp.Items.Clear();
@@ -105,7 +105,6 @@ namespace Integrador_2
                         KeyValuePair<int, string> item = new KeyValuePair<int, string>(perfil.Id, perfil.Tipo);
                         cb_CargoEmp.Items.Add(item);
                     }
-
                     cb_CargoEmp.DisplayMember = "Value";
                     cb_CargoEmp.ValueMember = "Key";
                     cb_CargoEmp.SelectedIndex = 0;
@@ -113,9 +112,8 @@ namespace Integrador_2
             }
             catch (Exception ex)
             {
-                 MessageBox.Show("Error al traer Perfiles ", ex.Message);
+                throw ex;
             }
-    
         }
         void Asignar()
         {

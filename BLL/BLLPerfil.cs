@@ -22,6 +22,8 @@ namespace BLL
             return mmpPerfil.buscarPerfiles();
 
         }
+   
+        
         public List<Permiso> buscarPermisos(int idPerfil)
         {
             mmpPerfil = new MPPPerfil();

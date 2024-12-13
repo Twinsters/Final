@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bitacora>
+  <Registro>
+    <usuario>Admin,Admin</usuario>
+    <fechaYHora>13-12-2024 13:18:12</fechaYHora>
+    <nombreArchivo>Backup_2024-12-13_13-18-12.xml</nombreArchivo>
+    <evento>Backup</evento>
+  </Registro>
+  <Registro>
+    <usuario>Admin,Admin</usuario>
+    <fechaYHora>13-12-2024 13:18:40</fechaYHora>
+    <nombreArchivo>Backup_2024-12-13_13-18-40.xml</nombreArchivo>
+    <evento>Backup</evento>
+  </Registro>
+  <Registro>
+    <usuario>Admin,Admin</usuario>
+    <fechaYHora>13-12-2024 13:20:44</fechaYHora>
+    <nombreArchivo>Backup_2024-12-13_13-18-12.xml</nombreArchivo>
+    <evento>Restore</evento>
+  </Registro>
+</Bitacora>

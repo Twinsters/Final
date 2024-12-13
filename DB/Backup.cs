@@ -67,7 +67,7 @@ namespace DB
                 {
                     Directory.CreateDirectory(backupDir);
                 }
-                string timestamp = DateTime.Now.ToString("yyyyMMdd_HHmmss");
+                string timestamp = DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss");
                 string backupFileName = $"Backup_{timestamp}.xml";
                 string backupFilePath = Path.Combine(backupDir, backupFileName);
                 File.Copy(ruta, backupFilePath);
@@ -87,8 +87,8 @@ namespace DB
                 string rutaBackup = Path.Combine(backupDir, Archivo.Nombre);
                 if (File.Exists(rutaBackup))
                 {
-                    string timestamp = DateTime.Now.ToString("yyyyMMdd_HHmmss");
-                    string archivoBackupConTimestamp = Path.Combine(backupDir, $"{Path.GetFileNameWithoutExtension(Archivo.Nombre)}_{timestamp}{Path.GetExtension(Archivo.Nombre)}");
+                    string timestamp = DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss");
+                    string archivoBackupConTimestamp = Path.Combine(backupDir, $"{Path.GetFileNameWithoutExtension(Archivo.Nombre)}_Restore- {timestamp}{Path.GetExtension(Archivo.Nombre)}");
                     File.Move(ruta, archivoBackupConTimestamp);
                     File.Copy(rutaBackup, ruta, overwrite: true);
                     if (File.Exists(Path.Combine(backupDir,Archivo.Nombre)))

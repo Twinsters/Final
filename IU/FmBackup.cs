@@ -117,7 +117,7 @@ namespace Integrador_2
                 bitacora.Usuario = usuario;
                 bitacora.FechaYHora = DateTime.Now;
                 bitacora.Evento = "Backup";
-                string timestamp = DateTime.Now.ToString("yyyyMMdd_HHmmss");
+                string timestamp = DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss");
                 bitacora.NombreArchivo = $"Backup_{timestamp}.xml";
                 if(bllBitacora.guardarBitacora(bitacora))
                 {
