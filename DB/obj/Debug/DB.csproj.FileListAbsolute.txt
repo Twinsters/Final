@@ -1,0 +1,80 @@
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\DB\bin\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\DB\bin\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\DB\obj\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\DB\obj\Debug\DB.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\DB\bin\Debug\DB.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\DB\bin\Debug\DB.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\DB\obj\Debug\DB.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\DB\obj\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\DB\bin\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\DB\bin\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\DB\obj\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\DB\obj\Debug\DB.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\DB\bin\Debug\DB.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\DB\bin\Debug\DB.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\DB\obj\Debug\DB.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\DB\obj\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\DB\bin\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\DB\bin\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\DB\obj\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\DB\obj\Debug\DB.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\DB\bin\Debug\DB.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\DB\bin\Debug\DB.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\DB\obj\Debug\DB.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\DB\obj\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\bin\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\bin\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\obj\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\obj\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\bin\Debug\BE.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\bin\Debug\Abstracto.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\bin\Debug\BE.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\bin\Debug\Abstracto.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\obj\Debug\DB.csproj.CopyComplete
+F:\Materias\Trabajo Final\Tp Final\DB\bin\Debug\DB.dll
+F:\Materias\Trabajo Final\Tp Final\DB\bin\Debug\DB.pdb
+F:\Materias\Trabajo Final\Tp Final\DB\bin\Debug\BE.dll
+F:\Materias\Trabajo Final\Tp Final\DB\bin\Debug\Abstracto.dll
+F:\Materias\Trabajo Final\Tp Final\DB\bin\Debug\BE.pdb
+F:\Materias\Trabajo Final\Tp Final\DB\bin\Debug\Abstracto.pdb
+F:\Materias\Trabajo Final\Tp Final\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+F:\Materias\Trabajo Final\Tp Final\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+F:\Materias\Trabajo Final\Tp Final\DB\obj\Debug\DB.csproj.CopyComplete
+F:\Materias\Trabajo Final\Tp Final\DB\obj\Debug\DB.dll
+F:\Materias\Trabajo Final\Tp Final\DB\obj\Debug\DB.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\DB\bin\Debug\DB.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\DB\bin\Debug\DB.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\DB\bin\Debug\BE.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\DB\bin\Debug\Abstracto.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\DB\bin\Debug\BE.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\DB\bin\Debug\Abstracto.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\Claw\Downloads\Final-main\Final-main\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Downloads\Final-main\Final-main\DB\obj\Debug\DB.csproj.CopyComplete
+C:\Users\Claw\Downloads\Final-main\Final-main\DB\obj\Debug\DB.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\DB\obj\Debug\DB.pdb
+C:\Users\Claw\Downloads\Final-master\Final-master\DB\bin\Debug\DB.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\DB\bin\Debug\DB.pdb
+C:\Users\Claw\Downloads\Final-master\Final-master\DB\bin\Debug\BE.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\DB\bin\Debug\Abstracto.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\DB\bin\Debug\BE.pdb
+C:\Users\Claw\Downloads\Final-master\Final-master\DB\bin\Debug\Abstracto.pdb
+C:\Users\Claw\Downloads\Final-master\Final-master\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\Claw\Downloads\Final-master\Final-master\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Downloads\Final-master\Final-master\DB\obj\Debug\DB.csproj.CopyComplete
+C:\Users\Claw\Downloads\Final-master\Final-master\DB\obj\Debug\DB.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\DB\obj\Debug\DB.pdb

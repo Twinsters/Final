@@ -1,0 +1,6 @@
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Security\bin\Debug\Security.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Security\bin\Debug\Security.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Security\obj\Debug\Security.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Security\obj\Debug\Security.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Security\obj\Debug\Security.pdb

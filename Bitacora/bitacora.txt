@@ -1,0 +1,444 @@
+2024-11-06 20:54:20 - Backup creado exitosamente - Backup_20241106_205411.xml
+2024-11-06 20:57:59 - Backup creado exitosamente - Backup_20241106_205730.xml
+2024-11-06 21:01:27 - Backup creado exitosamente - Backup_20241106_210100.xml
+2024-11-06 21:10:16 - Backup creado exitosamente - Backup_20241106_211016.xml
+2024-11-08 14:24:48 - Backup creado exitosamente - Backup_20241108_142448.xml
+2024-11-08 14:27:21 - Backup creado exitosamente - Backup_20241108_142721.xml
+2024-11-08 14:27:58 - Backup creado exitosamente - Backup_20241108_142758.xml
+2024-11-08 14:28:07 - Backup creado exitosamente - Backup_20241108_142806.xml
+2024-11-08 14:36:40 - Backup creado exitosamente - Backup_20241108_143640.xml
+2024-11-08 14:41:26 - Backup creado exitosamente - Backup_20241108_144126.xml
+2024-11-08 14:47:42 - Backup creado exitosamente - Backup_20241108_144742.xml
+2024-11-08 14:52:28 - Backup creado exitosamente - Backup_20241108_145228.xml
+2024-11-08 14:54:39 - Backup creado exitosamente - Backup_20241108_145439.xml
+2024-11-08 15:02:12 - Backup creado exitosamente - Backup_20241108_150212.xml
+2024-11-08 15:03:12 - Backup creado exitosamente - Backup_20241108_150312.xml
+2024-11-08 15:12:37 - Backup creado exitosamente - Backup_20241108_151237.xml
+2024-11-08 15:13:00 - Backup creado exitosamente - Backup_20241108_151300.xml
+2024-11-08 15:13:27 - Backup creado exitosamente - Backup_20241108_151327.xml
+2024-11-11 14:16:44 - Backup creado exitosamente - Backup_20241111_141644.xml
+2024-11-11 14:18:40 - Backup creado exitosamente - Backup_20241111_141840.xml
+2024-11-11 14:19:11 - Backup creado exitosamente - Backup_20241111_141911.xml
+2024-11-11 14:19:55 - Backup creado exitosamente - Backup_20241111_141955.xml
+2024-11-11 14:20:28 - Backup creado exitosamente - Backup_20241111_142028.xml
+2024-11-11 14:20:56 - Backup creado exitosamente - Backup_20241111_142056.xml
+2024-11-11 14:21:21 - Backup creado exitosamente - Backup_20241111_142121.xml
+2024-11-11 14:21:31 - Backup creado exitosamente - Backup_20241111_142131.xml
+2024-11-11 14:44:23 - Backup creado exitosamente - Backup_20241111_144423.xml
+2024-11-11 14:45:03 - Backup creado exitosamente - Backup_20241111_144503.xml
+2024-11-11 14:52:38 - Juego Guardado - ID: 0, Nombre: Sonic, Categoria: Aventura, Precio:100,Plataforma:Sega. Guardado por ID: 8, asdasd asdas, DNI: 1
+2024-11-11 14:54:17 - Juego Modificado - ID: 2, Nombre: Sonic 2, Categoria: Aventura, Precio:100,Plataforma:Sega. Modificado por ID: 8, asdasd asdas, DNI: 1
+2024-11-11 14:56:08 - Backup creado exitosamente - Backup_20241111_145608.xml
+2024-11-11 14:59:21 - Backup creado exitosamente - Backup_20241111_145921.xml
+2024-11-11 15:00:52 - Backup creado exitosamente - Backup_20241111_150052.xml
+2024-11-11 15:01:29 - Backup creado exitosamente - Backup_20241111_150129.xml
+2024-11-11 15:04:52 - Backup creado exitosamente - Backup_20241111_150452.xml
+2024-11-11 15:05:31 - Backup creado exitosamente - Backup_20241111_150531.xml
+2024-11-11 15:07:55 - Backup creado exitosamente - Backup_20241111_150755.xml
+2024-11-11 15:08:29 - Domicilio Guardado - ID: 0, Localidad: Caseros, Calle: 879, Numero:255
+2024-11-11 15:08:29 - Empleado Guardado - ID: 0, Nombre: noe, Tipo Empleado:Empleado
+2024-11-11 15:08:58 - Domicilio Modificado - ID: 5, Localidad: Caseros, Calle: 879, Numero:255
+2024-11-11 15:08:58 - Empleado Modificado - ID: 10, Nombre: Noe, Tipo Empleado:Empleado
+2024-11-11 15:30:17 - Backup creado exitosamente - Backup_20241111_153017.xml
+2024-11-11 15:30:50 - Domicilio Guardado - ID: 5, Localidad: caseros, Calle: 457, Numero:44. Creado por: 8, asdasd asdas, DNI: 1
+2024-11-11 15:30:50 - Empleado Guardado - ID: 10, Nombre: noe, Tipo Empleado:Empleado.Creado por: 8, asdasd asdas, DNI: 1
+2024-11-11 15:31:24 - Empleado Eliminado - ID: 10, Nombre: . Por Id: 8, asdasd asdas, DNI: 1
+2024-11-11 15:32:44 - Domicilio Modificado - ID: 4, Localidad: Quiles, Calle: 549, Numero:22. Creado por: 8, asdasd asdas, DNI: 1
+2024-11-11 15:32:44 - Empleado Modificado - ID: 9, Nombre: PEPE, Tipo Empleado:Empleado.Creado por: 8, asdasd asdas, DNI: 1
+2024-11-11 15:33:42 - Backup creado exitosamente - Backup_20241111_153342.xml
+2024-11-11 15:43:44 - Backup creado exitosamente - Backup_20241111_154344.xml
+2024-11-11 15:45:01 - Backup creado exitosamente - Backup_20241111_154501.xml
+2024-11-11 15:48:14 - Backup creado exitosamente - Backup_20241111_154814.xml
+2024-11-11 15:48:42 - Domicilio Guardado - ID: 6, Localidad: caseros, Calle: 154, Numero:44. Creado por: 8, asdasd asdas, DNI: 1
+2024-11-11 15:48:42 - Proveedor Guardado - ID: 0, Nombre: CDmarket
+2024-11-11 15:51:53 - Backup creado exitosamente - Backup_20241111_155153.xml
+2024-11-11 15:53:03 - Domicilio Guardado - ID: 7, Localidad: Hong kon, Calle: das, Numero:44. Creado por: 8, asdasd asdas, DNI: 1
+2024-11-11 15:53:35 - Domicilio Modificado - ID: 7, Localidad: Hong kon, Calle: das, Numero:44. Creado por: 8, asdasd asdas, DNI: 1
+2024-11-11 15:57:31 - Backup creado exitosamente - Backup_20241111_155731.xml
+2024-11-11 15:58:25 - Domicilio Guardado - ID: 8, Localidad: Hong kong, Calle: 45, Numero:44. Creado por: 8, asdasd asdas, DNI: 1
+2024-11-11 15:58:25 - Proveedor Guardado - ID: 3, Nombre: Aliexpress. Creado por: 8, asdasd asdas, DNI: 1
+2024-11-11 15:59:35 - Domicilio Modificado - ID: 8, Localidad: Hong kong, Calle: 44, Numero:43. Creado por: 8, asdasd asdas, DNI: 1
+2024-11-11 15:59:35 - Proveedor Modificado - ID: 3, Nombre: Aliexpres. Creado por: 8, asdasd asdas, DNI: 1
+2024-11-11 16:05:20 - Backup creado exitosamente - Backup_20241111_160520.xml
+2024-11-11 16:06:03 - Proveedor Eliminado - ID: 3, Nombre: . Eliminado por: codigo 8, asdasd asdas, DNI: 1
+2024-11-11 16:15:07 - Backup creado exitosamente - Backup_20241111_161507.xml
+2024-11-11 16:15:16 - Proveedor Eliminado - ID: 2. Eliminado por: codigo 8, asdasd asdas, DNI: 1
+2024-11-11 16:15:25 - Backup creado exitosamente - Backup_20241111_161525.xml
+2024-11-11 16:24:10 - Backup creado exitosamente - Backup_20241111_162410.xml
+2024-11-11 16:26:44 - Se Realizo la eliminacion de la venta por: ID:8, asdasdasdas, DNI: 1 
+2024-11-11 16:27:13 - Backup creado exitosamente - Backup_20241111_162713.xml
+2024-11-11 16:38:15 - Backup creado exitosamente - Backup_20241111_163815.xml
+2024-11-11 16:42:22 - Backup creado exitosamente - Backup_20241111_164222.xml
+2024-11-11 16:43:07 - Cliente Guardado - ID: 0, Nombre: noe, DNI:11222333
+2024-11-11 16:43:07 - Venta realizada - ID: 0, Cliente: 5, Monto: $100,00
+2024-11-11 16:43:07 - Registro Guardado - ID Venta: 0, ID Empleado: 8, asdasd asdas, DNI 1
+2024-11-11 16:43:11 - Backup creado exitosamente - Backup_20241111_164311.xml
+2024-11-11 16:43:42 - Backup creado exitosamente - Backup_20241111_164342.xml
+2024-11-11 17:04:01 - Backup creado exitosamente - Backup_20241111_170401.xml
+2024-11-11 17:11:37 - Backup creado exitosamente - Backup_20241111_171137.xml
+2024-11-11 18:29:59 - Backup creado exitosamente - Backup_20241111_182959.xml
+2024-11-11 18:30:42 - Backup creado exitosamente - Backup_20241111_183042.xml
+2024-11-11 18:31:25 - Backup creado exitosamente - Backup_20241111_183125.xml
+2024-11-11 18:33:52 - Backup creado exitosamente - Backup_20241111_183352.xml
+2024-11-11 18:34:16 - Backup creado exitosamente - Backup_20241111_183416.xml
+2024-11-11 18:35:04 - Backup creado exitosamente - Backup_20241111_183504.xml
+2024-11-11 18:46:15 - Backup creado exitosamente - Backup_20241111_184615.xml
+2024-11-11 18:46:40 - Juego Pedido - ID: 1, Nombre: Zelda, Categoria: Aventura, Precio:0,Plataforma:Nintendo Switch, Cantidad: 2. Guardado por ID: 8, asdasd asdas, DNI: 1
+2024-11-11 18:47:25 - Juego Pedido - ID: 1, Nombre: Zelda, Categoria: Aventura, Precio:0,Plataforma:Nintendo Switch, Cantidad: 2. Guardado por ID: 8, asdasd asdas, DNI: 1
+2024-11-11 18:48:37 - Juego Pedido - ID: 1, Nombre: Zelda, Categoria: Aventura, Precio:0,Plataforma:Nintendo Switch, Cantidad: 2. Guardado por ID: 8, asdasd asdas, DNI: 1
+2024-11-11 18:51:49 - Backup creado exitosamente - Backup_20241111_185149.xml
+2024-11-11 18:52:12 - Juego Pedido - ID: 1, Nombre: Zelda, Categoria: Aventura, Precio:0,Plataforma:Nintendo Switch, Cantidad: 5. Guardado por ID: 8, asdasd asdas, DNI: 1
+2024-11-11 18:59:38 - Backup creado exitosamente - Backup_20241111_185938.xml
+2024-11-11 18:59:54 - Juego Pedido - ID: 1, Nombre: Zelda, Categoria: Aventura, Precio:0,Plataforma:Nintendo Switch, Cantidad: 5. Guardado por ID: 8, asdasd asdas, DNI: 1
+2024-11-11 19:00:30 - Backup creado exitosamente - Backup_20241111_190030.xml
+2024-11-11 19:01:05 - Backup creado exitosamente - Backup_20241111_190105.xml
+2024-11-11 19:02:37 - Backup creado exitosamente - Backup_20241111_190237.xml
+2024-11-11 19:03:49 - Backup creado exitosamente - Backup_20241111_190349.xml
+2024-11-11 19:05:16 - Backup creado exitosamente - Backup_20241111_190516.xml
+2024-11-11 19:09:12 - Backup creado exitosamente - Backup_20241111_190912.xml
+2024-11-11 19:14:33 - Backup creado exitosamente - Backup_20241111_191433.xml
+2024-11-11 19:17:02 - Backup creado exitosamente - Backup_20241111_191702.xml
+2024-11-11 19:19:51 - Backup creado exitosamente - Backup_20241111_191951.xml
+2024-11-11 19:23:32 - Backup creado exitosamente - Backup_20241111_192332.xml
+2024-11-11 19:24:42 - Backup creado exitosamente - Backup_20241111_192442.xml
+2024-11-11 19:25:33 - Backup creado exitosamente - Backup_20241111_192533.xml
+2024-11-11 19:29:12 - Backup creado exitosamente - Backup_20241111_192912.xml
+2024-11-11 19:30:55 - Backup creado exitosamente - Backup_20241111_193055.xml
+2024-11-11 19:34:38 - Backup creado exitosamente - Backup_20241111_193438.xml
+2024-11-11 19:35:48 - Backup creado exitosamente - Backup_20241111_193548.xml
+2024-11-11 19:37:13 - Backup creado exitosamente - Backup_20241111_193713.xml
+2024-11-11 19:37:17 - Backup creado exitosamente - Backup_20241111_193717.xml
+2024-11-11 19:37:21 - Backup creado exitosamente - Backup_20241111_193721.xml
+2024-11-11 19:37:26 - Backup creado exitosamente - Backup_20241111_193726.xml
+2024-11-11 19:37:31 - Backup creado exitosamente - Backup_20241111_193731.xml
+2024-11-11 19:37:34 - Backup creado exitosamente - Backup_20241111_193734.xml
+2024-11-11 19:37:37 - Backup creado exitosamente - Backup_20241111_193737.xml
+2024-11-11 19:37:40 - Backup creado exitosamente - Backup_20241111_193740.xml
+2024-11-11 19:37:44 - Backup creado exitosamente - Backup_20241111_193744.xml
+2024-11-11 19:48:49 - Backup creado exitosamente - Backup_20241111_194849.xml
+2024-11-11 19:52:23 - Backup creado exitosamente - Backup_20241111_195223.xml
+2024-11-11 20:03:38 - Backup creado exitosamente - Backup_20241111_200338.xml
+2024-11-12 17:43:29 - Error al realizar guardado del pedido - Error: El valor no puede ser nulo.
+Nombre del parámetro: attribute - StackTrace:    en System.Xml.Linq.XAttribute.op_Explicit(XAttribute attribute)
+   en MPP.MPPJuego.<>c.<guardarPedido>b__6_0(XElement e) en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\MPP\MPPJuego.cs:línea 230
+   en System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en MPP.MPPJuego.guardarPedido(BEJuego juegoPedido, BEEmpleado usuario) en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\MPP\MPPJuego.cs:línea 229
+2024-11-12 17:43:34 - Error al realizar guardado del pedido - Error: El valor no puede ser nulo.
+Nombre del parámetro: attribute - StackTrace:    en System.Xml.Linq.XAttribute.op_Explicit(XAttribute attribute)
+   en MPP.MPPJuego.<>c.<guardarPedido>b__6_0(XElement e) en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\MPP\MPPJuego.cs:línea 230
+   en System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   en System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   en System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   en MPP.MPPJuego.guardarPedido(BEJuego juegoPedido, BEEmpleado usuario) en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\MPP\MPPJuego.cs:línea 229
+2024-11-12 17:45:11 - Juego Pedido - ID: 3, Nombre: Halo 3, Categoria: Accion, Precio:0,Plataforma:XBOX Series S/X, Cantidad: 10. Guardado por ID: 0,  , DNI: 0
+2024-11-12 17:56:34 - Juego Pedido - ID: 4, Nombre: Mortal Kombat, Categoria: Lucha, Precio:0,Plataforma:Play 4, Cantidad: 3. Guardado por ID: 0,  , DNI: 0
+2024-11-12 17:56:47 - Juego Pedido - ID: 5, Nombre: Mortal Kombat, Categoria: Lucha, Precio:0,Plataforma:Play 4, Cantidad: 3. Guardado por ID: 0,  , DNI: 0
+2024-11-12 17:56:50 - Juego Pedido - ID: 6, Nombre: Mortal Kombat, Categoria: Lucha, Precio:0,Plataforma:Play 4, Cantidad: 3. Guardado por ID: 0,  , DNI: 0
+2024-11-12 17:56:51 - Juego Pedido - ID: 7, Nombre: Mortal Kombat, Categoria: Lucha, Precio:0,Plataforma:Play 4, Cantidad: 3. Guardado por ID: 0,  , DNI: 0
+2024-11-12 17:56:51 - Juego Pedido - ID: 8, Nombre: Mortal Kombat, Categoria: Lucha, Precio:0,Plataforma:Play 4, Cantidad: 3. Guardado por ID: 0,  , DNI: 0
+2024-11-12 17:56:51 - Juego Pedido - ID: 9, Nombre: Mortal Kombat, Categoria: Lucha, Precio:0,Plataforma:Play 4, Cantidad: 3. Guardado por ID: 0,  , DNI: 0
+2024-11-12 17:56:53 - Backup creado exitosamente - Backup_20241112_175653.xml
+2024-11-12 17:57:02 - Juego Eliminado - ID: 9, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:04 - Juego Eliminado - ID: 9, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:04 - Juego Eliminado - ID: 9, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:05 - Juego Eliminado - ID: 9, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:05 - Juego Eliminado - ID: 9, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:06 - Juego Eliminado - ID: 8, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:06 - Juego Eliminado - ID: 7, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:07 - Juego Eliminado - ID: 6, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:07 - Juego Eliminado - ID: 5, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:08 - Juego Eliminado - ID: 3, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:08 - Juego Eliminado - ID: 4, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:09 - Juego Eliminado - ID: 3, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:09 - Juego Eliminado - ID: 5, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 17:57:24 - Juego Eliminado - ID: 1, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 18:08:51 - Juego Pedido - ID: 5, Nombre: Dragon Ball, Categoria: Lucha, Precio:0,Plataforma:Play 5, Cantidad: 20. Guardado por ID: 0,  , DNI: 0
+2024-11-12 18:09:20 - Juego Pedido - ID: 6, Nombre: God of War 3, Categoria: Aventura, Precio:0,Plataforma:Play 3, Cantidad: 5. Guardado por ID: 0,  , DNI: 0
+2024-11-12 18:09:30 - Juego Eliminado - ID: 5, Nombre: , Categoria: , Precio:0,Plataforma:, Eliminado por: codigo 0,  , DNI: 0
+2024-11-12 22:16:23 - Backup creado exitosamente - Backup_20241112_221623.xml
+2024-11-12 22:17:32 - Domicilio Guardado - ID: 1, Localidad: Caseros, Calle: Av. San Martin, Numero:3684. Creado por: 7, Admin Admin, DNI: 1
+2024-11-12 22:17:32 - Empleado Guardado - ID: 8, Nombre: Claudio, Tipo Empleado:asda.Creado por: 7, Admin Admin, DNI: 1
+2024-11-12 22:17:51 - Empleado Eliminado - ID: 8, Nombre: . Por Id: 7, Admin Admin, DNI: 1
+2024-11-12 22:19:38 - Backup creado exitosamente - Backup_20241112_221938.xml
+2024-11-12 22:20:56 - Backup creado exitosamente - Backup_20241112_222056.xml
+2024-11-12 22:21:48 - Domicilio Guardado - ID: 1, Localidad: Caseros, Calle: Av. San Martin , Numero:3464. Creado por: 7, Admin Admin, DNI: 1
+2024-11-12 22:21:48 - Empleado Guardado - ID: 8, Nombre: Claudio, Tipo Empleado:Gerente.Creado por: 7, Admin Admin, DNI: 1
+2024-11-12 22:22:22 - Domicilio Modificado - ID: 1, Localidad: Caseros, Calle: Av. San Martin, Numero:3845. Creado por: 7, Admin Admin, DNI: 1
+2024-11-12 22:22:22 - Empleado Modificado - ID: 8, Nombre: Claudio, Tipo Empleado:Gerente.Creado por: 7, Admin Admin, DNI: 1
+2024-11-12 22:22:38 - Backup creado exitosamente - Backup_20241112_222238.xml
+2024-11-12 22:26:43 - Backup creado exitosamente - Backup_20241112_222643.xml
+2024-11-12 22:27:09 - Domicilio Guardado - ID: 2, Localidad: Caba, Calle: 1550, Numero:22. Creado por: 7, Admin Admin, DNI: 1
+2024-11-12 22:27:09 - Proveedor Guardado - ID: 1, Nombre: CdMarket. Creado por: 7, Admin Admin, DNI: 1
+2024-11-12 22:27:25 - Domicilio Modificado - ID: 2, Localidad: Caba, Calle: 1550, Numero:23. Creado por: 7, Admin Admin, DNI: 1
+2024-11-12 22:27:25 - Proveedor Modificado - ID: 1, Nombre: CdMarket. Creado por: 7, Admin Admin, DNI: 1
+2024-11-12 22:27:40 - Proveedor Eliminado - ID: 1. Eliminado por: codigo 7, Admin Admin, DNI: 1
+2024-11-12 22:28:11 - Domicilio Guardado - ID: 3, Localidad: San Telmo, Calle: Peru, Numero:55. Creado por: 7, Admin Admin, DNI: 1
+2024-11-12 22:28:11 - Proveedor Guardado - ID: 2, Nombre: Evergamer. Creado por: 7, Admin Admin, DNI: 1
+2024-11-12 22:28:19 - Backup creado exitosamente - Backup_20241112_222819.xml
+2024-11-12 22:29:12 - Juego Guardado - ID: 0, Nombre: Super Mario, Categoria: Aventura, Precio:1500,Plataforma:Nintendo 3ds. Guardado por ID: 7, Admin Admin, DNI: 1
+2024-11-12 22:30:37 - Backup creado exitosamente - Backup_20241112_223037.xml
+2024-11-12 22:31:31 - Juego Guardado - ID: 0, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:25555,Plataforma:PC Master Race. Guardado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 22:31:41 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:255,55,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 22:32:47 - Backup creado exitosamente - Backup_20241112_223247.xml
+2024-11-12 22:34:26 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:255,55,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 22:37:37 - Backup creado exitosamente - Backup_20241112_223737.xml
+2024-11-12 22:38:02 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:255,55,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 22:40:08 - Backup creado exitosamente - Backup_20241112_224008.xml
+2024-11-12 22:41:20 - Backup creado exitosamente - Backup_20241112_224120.xml
+2024-11-12 22:41:24 - Backup creado exitosamente - Backup_20241112_224124.xml
+2024-11-12 22:41:58 - Backup creado exitosamente - Backup_20241112_224158.xml
+2024-11-12 22:42:30 - Backup creado exitosamente - Backup_20241112_224230.xml
+2024-11-12 22:44:26 - Backup creado exitosamente - Backup_20241112_224426.xml
+2024-11-12 22:45:05 - Backup creado exitosamente - Backup_20241112_224505.xml
+2024-11-12 22:45:59 - Backup creado exitosamente - Backup_20241112_224559.xml
+2024-11-12 22:46:59 - Backup creado exitosamente - Backup_20241112_224659.xml
+2024-11-12 22:50:55 - Backup creado exitosamente - Backup_20241112_225055.xml
+2024-11-12 22:51:24 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:255,57,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 22:51:34 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:25562,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 22:51:44 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:255,62,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 22:52:00 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:25562,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 22:54:25 - Backup creado exitosamente - Backup_20241112_225425.xml
+2024-11-12 22:54:32 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:25562,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 22:54:38 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:25562,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 22:57:58 - Backup creado exitosamente - Backup_20241112_225758.xml
+2024-11-12 22:58:06 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:25562,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 22:58:51 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:25562,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 23:00:50 - Backup creado exitosamente - Backup_20241112_230050.xml
+2024-11-12 23:01:09 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:255,62,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 23:01:27 - Juego Modificado - ID: 2, Nombre: Age Of Empires 2 DE, Categoria: Estrategia, Precio:255,72,Plataforma:PC Master Race. Modificado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 23:02:22 - Juego Guardado - ID: 0, Nombre: Halo 4, Categoria: Accion, Precio:555,87,Plataforma:XBOX 360. Guardado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-12 23:02:35 - Backup creado exitosamente - Backup_20241112_230235.xml
+2024-11-12 23:02:45 - Backup creado exitosamente - Backup_20241112_230245.xml
+2024-11-12 23:05:13 - Cliente Guardado - ID: 0, Nombre: Noe, DNI:1222333
+2024-11-12 23:05:13 - Venta realizada - ID: 1, Cliente: 1, Monto: $255,72
+2024-11-12 23:05:13 - Registro Guardado - ID Venta: 1, ID Empleado: 8, Herrera Claudio, DNI 38846779
+2024-11-12 23:05:17 - Backup creado exitosamente - Backup_20241112_230517.xml
+2024-11-12 23:06:01 - Backup creado exitosamente - Backup_20241112_230601.xml
+2024-11-12 23:06:37 - Backup creado exitosamente - Backup_20241112_230637.xml
+2024-11-12 23:12:52 - Backup creado exitosamente - Backup_20241112_231252.xml
+2024-11-12 23:17:03 - Backup creado exitosamente - Backup_20241112_231703.xml
+2024-11-12 23:18:03 - Backup creado exitosamente - Backup_20241112_231803.xml
+2024-11-12 23:18:43 - Cliente Guardado - ID: 0, Nombre: Gustavo, DNI:1222333
+2024-11-12 23:18:43 - Venta realizada - ID: 2, Cliente: 2, Monto: $1.500,00
+2024-11-12 23:18:43 - Registro Guardado - ID Venta: 2, ID Empleado: 8, Herrera Claudio, DNI 38846779
+2024-11-12 23:18:46 - Backup creado exitosamente - Backup_20241112_231846.xml
+2024-11-12 23:22:09 - Backup creado exitosamente - Backup_20241112_232209.xml
+2024-11-12 23:22:32 - Cliente Guardado - ID: 0, Nombre: Gustavo, DNI:1222333
+2024-11-12 23:22:32 - Venta realizada - ID: 2, Cliente: 3, Monto: $1.500,00
+2024-11-12 23:22:32 - Registro Guardado - ID Venta: 2, ID Empleado: 8, Herrera Claudio, DNI 38846779
+2024-11-12 23:22:35 - Backup creado exitosamente - Backup_20241112_232235.xml
+2024-11-12 23:22:46 - Backup creado exitosamente - Backup_20241112_232246.xml
+2024-11-13 00:08:21 - Backup creado exitosamente - Backup_20241113_000821.xml
+2024-11-13 00:12:18 - Backup creado exitosamente - Backup_20241113_001218.xml
+2024-11-13 00:12:46 - Cliente Guardado - ID: 0, Nombre: LEonar, DNI:1222333
+2024-11-13 00:12:46 - Venta realizada - ID: 3, Cliente: 4, Monto: $255,72
+2024-11-13 00:12:46 - Registro Guardado - ID Venta: 3, ID Empleado: 8, Herrera Claudio, DNI 38846779
+2024-11-13 00:13:12 - Cliente Guardado - ID: 0, Nombre: SHeldon, DNI:1222333
+2024-11-13 00:13:12 - Venta realizada - ID: 4, Cliente: 5, Monto: $555,87
+2024-11-13 00:13:12 - Registro Guardado - ID Venta: 4, ID Empleado: 8, Herrera Claudio, DNI 38846779
+2024-11-13 00:13:14 - Backup creado exitosamente - Backup_20241113_001314.xml
+2024-11-13 00:14:45 - Backup creado exitosamente - Backup_20241113_001445.xml
+2024-11-13 00:53:53 - Backup creado exitosamente - Backup_20241113_005353.xml
+2024-11-13 00:54:08 - Backup creado exitosamente - Backup_20241113_005408.xml
+2024-11-13 00:55:44 - Backup creado exitosamente - Backup_20241113_005544.xml
+2024-11-13 00:56:21 - Juego Pedido - ID: 1, Nombre: Dragon ball z, Categoria: Lucha, Precio:0,Plataforma:Play 4, Cantidad: 50. Guardado por ID: 8, Herrera Claudio, DNI: 38846779
+2024-11-13 00:56:41 - Backup creado exitosamente - Backup_20241113_005641.xml
+2024-11-13 00:58:25 - Backup creado exitosamente - Backup_20241113_005825.xml
+2024-11-13 00:58:39 - Backup creado exitosamente - Backup_20241113_005839.xml
+2024-11-13 01:02:40 - Backup creado exitosamente - Backup_20241113_010240.xml
+2024-11-13 01:02:46 - Backup creado exitosamente - Backup_20241113_010246.xml
+2024-11-13 01:02:58 - Backup creado exitosamente - Backup_20241113_010258.xml
+2024-11-13 01:04:27 - Backup creado exitosamente - Backup_20241113_010427.xml
+2024-11-13 01:05:35 - Backup creado exitosamente - Backup_20241113_010535.xml
+2024-11-13 01:05:45 - Backup creado exitosamente - Backup_20241113_010545.xml
+2024-11-13 01:05:51 - Backup creado exitosamente - Backup_20241113_010551.xml
+2024-11-13 01:05:58 - Backup creado exitosamente - Backup_20241113_010558.xml
+2024-11-13 01:06:03 - Backup creado exitosamente - Backup_20241113_010603.xml
+2024-11-13 01:10:16 - Backup creado exitosamente - Backup_20241113_011016.xml
+2024-11-13 01:15:31 - Backup creado exitosamente - Backup_20241113_011531.xml
+2024-11-13 01:17:24 - Backup creado exitosamente - Backup_20241113_011724.xml
+2024-11-13 01:34:28 - Backup creado exitosamente - Backup_20241113_013428.xml
+2024-11-13 01:36:35 - Backup creado exitosamente - Backup_20241113_013635.xml
+2024-11-13 01:36:46 - Backup creado exitosamente - Backup_20241113_013646.xml
+2024-11-13 01:36:46 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Backup\Backup_20241113_013646.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 40
+2024-11-13 01:36:46 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Backup\Backup_20241113_013646.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 40
+2024-11-13 01:36:46 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Backup\Backup_20241113_013646.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 40
+2024-11-13 01:36:47 - Backup creado exitosamente - Backup_20241113_013647.xml
+2024-11-13 01:36:51 - Backup creado exitosamente - Backup_20241113_013651.xml
+2024-11-13 01:36:59 - Backup creado exitosamente - Backup_20241113_013659.xml
+2024-11-13 01:37:28 - Backup creado exitosamente - Backup_20241113_013728.xml
+2024-11-13 09:53:22 - Backup creado exitosamente - Backup_20241113_095322.xml
+2024-11-13 09:53:25 - Backup creado exitosamente - Backup_20241113_095325.xml
+2024-11-13 09:53:26 - Backup creado exitosamente - Backup_20241113_095326.xml
+2024-11-13 09:53:26 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Backup\Backup_20241113_095326.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 63
+2024-11-13 09:53:26 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Backup\Backup_20241113_095326.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 63
+2024-11-13 09:53:27 - Backup creado exitosamente - Backup_20241113_095327.xml
+2024-11-13 09:53:27 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Backup\Backup_20241113_095327.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 63
+2024-11-13 09:53:27 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Backup\Backup_20241113_095327.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 63
+2024-11-13 09:53:27 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Backup\Backup_20241113_095327.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 63
+2024-11-13 09:53:28 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Backup\Backup_20241113_095327.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 63
+2024-11-13 09:53:28 - Backup creado exitosamente - Backup_20241113_095328.xml
+2024-11-13 09:53:28 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Backup\Backup_20241113_095328.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 63
+2024-11-13 09:55:15 - Backup creado exitosamente - Backup_20241113_095515.xml
+2024-11-13 09:55:22 - Backup creado exitosamente - Backup_20241113_095522.xml
+2024-11-13 09:55:39 - Backup creado exitosamente - Backup_20241113_095539.xml
+2024-11-13 09:56:11 - Backup creado exitosamente - Backup_20241113_095611.xml
+2024-11-13 09:56:12 - Backup creado exitosamente - Backup_20241113_095612.xml
+2024-11-13 10:15:06 - La base de datos ha sido reemplazada exitosamente con el backup.
+2024-11-13 10:15:17 - Backup creado exitosamente - Backup_20241113_101517.xml
+2024-11-13 10:19:28 - Error al reemplazar la base de datos:  - Error: No se pudo encontrar el archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Backup\Backup_20241113_101517.xml'. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   en DB.BackupHelper.ReemplazarBaseDeDatos(BEBackup Archivo) en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 86
+2024-11-13 10:20:27 - Error al reemplazar la base de datos: No se pudo encontrar el archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Base XML\Empresa.xml'. - Error: No se pudo encontrar el archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Base XML\Empresa.xml'. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   en System.IO.File.Move(String sourceFileName, String destFileName)
+   en DB.BackupHelper.ReemplazarBaseDeDatos(BEBackup Archivo) en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 92
+2024-11-13 10:25:32 - La base de datos ha sido reemplazada exitosamente con el backup.
+2024-11-13 10:25:35 - Backup creado exitosamente - Backup_20241113_102535.xml
+2024-11-13 10:26:30 - La base de datos ha sido reemplazada exitosamente con el backup.
+2024-11-13 10:37:12 - Backup creado exitosamente - Backup_20241113_103712.xml
+2024-11-13 10:37:16 - Backup creado exitosamente - Backup_20241113_103716.xml
+2024-11-13 10:38:14 - Backup creado exitosamente - Backup_20241113_103814.xml
+2024-11-13 10:39:11 - Domicilio Guardado - ID: 4, Localidad: caseros, Calle: av.san martin, Numero:3846. Creado por: 8, Claudio Herrera, DNI: 2
+2024-11-13 10:39:11 - Empleado Guardado - ID: 9, Nombre: Noe, Tipo Empleado:Empleado.Creado por: 8, Claudio Herrera, DNI: 2
+2024-11-13 10:39:13 - Backup creado exitosamente - Backup_20241113_103913.xml
+2024-11-13 10:39:15 - Backup creado exitosamente - Backup_20241113_103915.xml
+2024-11-13 10:39:15 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Backup\Backup_20241113_103915.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 63
+2024-11-13 10:40:27 - Backup creado exitosamente - Backup_20241113_104027.xml
+2024-11-13 10:40:36 - Backup creado exitosamente - Backup_20241113_104036.xml
+2024-11-13 10:45:17 - Backup creado exitosamente - Backup_20241113_104517.xml
+2024-11-13 10:46:06 - Backup creado exitosamente - Backup_20241113_104606.xml
+2024-11-13 10:52:29 - Backup creado exitosamente - Backup_20241113_105229.xml
+2024-11-13 10:52:51 - Backup creado exitosamente - Backup_20241113_105251.xml
+2024-11-13 10:53:32 - Backup creado exitosamente - Backup_20241113_105332.xml
+2024-11-13 13:42:50 - Backup creado exitosamente - Backup_20241113_134250.xml
+2024-11-13 14:44:06 - Backup creado exitosamente - Backup_20241113_144406.xml
+2024-11-13 14:44:49 - Backup creado exitosamente - Backup_20241113_144449.xml
+2024-11-13 14:46:07 - Backup creado exitosamente - Backup_20241113_144607.xml
+2024-11-13 14:46:11 - Backup creado exitosamente - Backup_20241113_144611.xml
+2024-11-13 14:52:06 - Backup creado exitosamente - Backup_20241113_145206.xml
+2024-11-13 14:55:01 - Backup creado exitosamente - Backup_20241113_145501.xml
+2024-11-13 14:59:00 - Backup creado exitosamente - Backup_20241113_145900.xml
+2024-11-13 15:36:55 - Backup creado exitosamente - Backup_20241113_153655.xml
+2024-11-13 17:25:37 - Backup creado exitosamente - Backup_20241113_172537.xml
+2024-11-15 02:16:29 - Backup creado exitosamente - Backup_20241115_021629.xml
+2024-11-15 02:17:01 - Backup creado exitosamente - Backup_20241115_021701.xml
+2024-11-15 02:17:07 - Backup creado exitosamente - Backup_20241115_021707.xml
+2024-11-15 02:18:09 - Backup creado exitosamente - Backup_20241115_021809.xml
+2024-11-15 02:22:35 - Backup creado exitosamente - Backup_20241115_022235.xml
+2024-11-15 11:01:21 - Backup creado exitosamente - Backup_20241115_110121.xml
+2024-11-15 11:24:13 - Error al realizar el backup:  - Error: No se puede dejar vacío el nombre de archivo.
+Nombre del parámetro: sourceFileName - StackTrace:    en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 79
+2024-11-15 11:30:19 - Backup creado exitosamente - Backup_20241115_113019.xml
+2024-11-15 11:30:31 - Backup creado exitosamente - Backup_20241115_113031.xml
+2024-11-15 11:30:58 - Backup creado exitosamente - Backup_20241115_113058.xml
+2024-11-15 11:30:59 - Backup creado exitosamente - Backup_20241115_113059.xml
+2024-11-15 11:30:59 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Backup\Backup_20241115_113059.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 73
+2024-11-15 11:30:59 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Backup\Backup_20241115_113059.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 73
+2024-11-15 11:30:59 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Backup\Backup_20241115_113059.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 73
+2024-11-15 11:30:59 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Backup\Backup_20241115_113059.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 73
+2024-11-15 11:30:59 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Backup\Backup_20241115_113059.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 73
+2024-11-15 11:31:02 - Backup creado exitosamente - Backup_20241115_113102.xml
+2024-11-15 11:31:10 - Backup creado exitosamente - Backup_20241115_113110.xml
+2024-11-15 11:31:12 - Backup creado exitosamente - Backup_20241115_113112.xml
+2024-11-15 11:31:24 - Backup creado exitosamente - Backup_20241115_113124.xml
+2024-11-15 11:31:52 - Backup creado exitosamente - Backup_20241115_113152.xml
+2024-11-15 11:32:06 - Backup creado exitosamente - Backup_20241115_113206.xml
+2024-11-15 11:33:16 - Backup creado exitosamente - Backup_20241115_113316.xml
+2024-11-15 11:33:56 - Backup creado exitosamente - Backup_20241115_113325.xml
+2024-11-15 11:35:06 - Backup creado exitosamente - Backup_20241115_113506.xml
+2024-11-15 11:35:24 - Backup creado exitosamente - Backup_20241115_113524.xml
+2024-11-15 11:35:30 - Backup creado exitosamente - Backup_20241115_113530.xml
+2024-11-15 11:35:35 - Backup creado exitosamente - Backup_20241115_113535.xml
+2024-11-15 11:36:15 - Cliente Guardado - ID: 0, Nombre: Herrera, DNI:12233456
+2024-11-15 11:36:15 - Venta realizada - ID: 5, Cliente: 6, Monto: $255,72
+2024-11-15 11:36:15 - Registro Guardado - ID Venta: 5, ID Empleado: 8, Claudio Herrera, DNI 2
+2024-11-15 11:36:17 - Backup creado exitosamente - Backup_20241115_113617.xml
+2024-11-15 11:36:26 - Backup creado exitosamente - Backup_20241115_113626.xml
+2024-11-15 11:36:32 - Backup creado exitosamente - Backup_20241115_113632.xml
+2024-11-15 11:36:43 - Backup creado exitosamente - Backup_20241115_113643.xml
+2024-11-15 11:41:00 - Backup creado exitosamente - Backup_20241115_114100.xml
+2024-11-15 11:41:03 - Backup creado exitosamente - Backup_20241115_114103.xml
+2024-11-15 11:41:07 - Backup creado exitosamente - Backup_20241115_114107.xml
+2024-11-15 11:58:08 - Backup creado exitosamente - Backup_20241115_115808.xml
+2024-11-15 11:58:50 - Domicilio Guardado - ID: 5, Localidad: quilmes, Calle: 4567, Numero:44. Creado por: 8, Claudio Herrera, DNI: 2
+2024-11-15 11:58:50 - Empleado Guardado - ID: 10, Nombre: fulano, Tipo Empleado:Deposito.Creado por: 8, Claudio Herrera, DNI: 2
+2024-11-15 11:59:03 - Backup creado exitosamente - Backup_20241115_115903.xml
+2024-11-15 11:59:49 - Backup creado exitosamente - Backup_20241115_115949.xml
+2024-11-15 12:00:02 - Backup creado exitosamente - Backup_20241115_120002.xml
+2024-11-15 12:00:08 - Backup creado exitosamente - Backup_20241115_120008.xml
+2024-11-15 12:00:20 - Backup creado exitosamente - Backup_20241115_120020.xml
+2024-11-15 12:01:23 - Backup creado exitosamente - Backup_20241115_120123.xml
+2024-11-15 12:01:48 - Backup creado exitosamente - Backup_20241115_120148.xml
+2024-11-15 12:02:03 - Backup creado exitosamente - Backup_20241115_120203.xml
+2024-11-15 12:02:06 - Backup creado exitosamente - Backup_20241115_120206.xml
+2024-11-15 12:02:12 - Backup creado exitosamente - Backup_20241115_120212.xml
+2024-11-15 12:02:16 - Backup creado exitosamente - Backup_20241115_120216.xml
+2024-11-15 12:02:17 - Backup creado exitosamente - Backup_20241115_120217.xml
+2024-11-15 12:02:17 - Error al realizar el backup:  - Error: El archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Backup\Backup_20241115_120217.xml' ya existe. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 73
+2024-11-15 13:34:45 - Backup creado exitosamente - Backup_20241115_133445.xml
+2024-11-15 13:35:22 - Backup creado exitosamente - Backup_20241115_133522.xml
+2024-11-15 13:35:56 - Backup creado exitosamente - Backup_20241115_133556.xml
+2024-11-15 13:36:40 - Backup creado exitosamente - Backup_20241115_133640.xml
+2024-11-15 14:05:23 - Backup creado exitosamente - Backup_20241115_140523.xml
+2024-11-15 14:25:15 - Backup creado exitosamente - Backup_20241115_142515.xml
+2024-11-15 14:26:51 - Backup creado exitosamente - Backup_20241115_142651.xml
+2024-11-15 14:39:58 - Backup creado exitosamente - Backup_20241115_143958.xml
+2024-11-15 14:41:47 - Backup creado exitosamente - Backup_20241115_144147.xml
+2024-11-15 14:42:53 - Backup creado exitosamente - Backup_20241115_144253.xml
+2024-11-15 14:53:51 - Backup creado exitosamente - Backup_20241115_145351.xml

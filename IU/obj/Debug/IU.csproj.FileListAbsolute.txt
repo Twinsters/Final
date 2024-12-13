@@ -1,0 +1,1083 @@
+F:\Materias\LUG\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe.config
+F:\Materias\LUG\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe
+F:\Materias\LUG\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+F:\Materias\LUG\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmLogin.resources
+F:\Materias\LUG\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmPrincipal.resources
+F:\Materias\LUG\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.Properties.Resources.resources
+F:\Materias\LUG\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.GenerateResource.cache
+F:\Materias\LUG\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.exe
+F:\Materias\LUG\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe.config
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\BE.dll
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\BLL.dll
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Abstracto.dll
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\MPP.dll
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\BE.pdb
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\BLL.pdb
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Abstracto.pdb
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\MPP.pdb
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\bin\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmLogin.resources
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmPrincipal.resources
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.Properties.Resources.resources
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.GenerateResource.cache
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CopyComplete
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.exe
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.UC_Log.resources
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.UC_BtnSalir.resources
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmVenta.resources
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.UC_Juego.resources
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FormJuego.resources
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FormJuegosFormulario.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe.config
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Integrador_2.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\BE.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\BLL.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Abstracto.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\MPP.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\DB.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\BE.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\BLL.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Abstracto.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\MPP.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\DB.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmLogin.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmPrincipal.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmVenta.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FormJuego.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FormJuegosFormulario.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.Properties.Resources.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.UC_BtnSalir.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.UC_Juego.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.UC_Log.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CopyComplete
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.exe
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe.config
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\BE.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\BLL.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Abstracto.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\MPP.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\BE.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\BLL.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Abstracto.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\MPP.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmLogin.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmPrincipal.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmVenta.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FormJuego.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.Properties.Resources.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.UC_Log.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.GenerateResource.cache
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CopyComplete
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.exe
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmProveedor.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmProveedorGuardar.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FormJuegosGuardar.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleado.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleadosGuardar.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Security.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Security.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmClientesVenta.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmConfirmacionCompra.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmInformes.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\EnvDTE.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\stdole.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmJuegosVendidos.resources
+F:\Materias\LUG\Integrador 2\Integrador 2v1\Integrador 2v1\Integrador 2\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleadosMasVentas.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe.config
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Integrador_2.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\BE.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\BLL.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Security.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Abstracto.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\MPP.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\EnvDTE.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\DB.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\stdole.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\BE.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\BLL.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Security.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Abstracto.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\MPP.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\DB.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmClientesVenta.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmConfirmacionCompra.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleado.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleadosGuardar.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleadosMasVentas.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmInformes.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmJuegosVendidos.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmLogin.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmPrincipal.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmProveedor.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmProveedorGuardar.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmVenta.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FormJuego.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FormJuegosGuardar.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.Properties.Resources.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.UC_Log.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CopyComplete
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.exe
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmJuegosPedidos.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\LUG\Tp Integrador 2\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmBuscarJuegosXML.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmBuscarJuegosXML.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmClientesVenta.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmConfirmacionCompra.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleado.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleadosGuardar.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleadosMasVentas.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmInformes.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmJuegosPedidos.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmJuegosVendidos.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmLogin.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmPrincipal.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmProveedor.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmProveedorGuardar.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmVenta.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FormJuego.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FormJuegosGuardar.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.Properties.Resources.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.UC_Log.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.GenerateResource.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.exe
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe.config
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\BE.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\BLL.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Security.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Abstracto.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\MPP.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\EnvDTE.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\stdole.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\BE.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\BLL.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Security.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Abstracto.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\MPP.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CopyComplete
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmDashboard.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe.config
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Integrador_2.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\BE.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\BLL.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\DB.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Security.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Abstracto.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\MPP.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\EnvDTE.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\stdole.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\BE.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\BLL.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\DB.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Security.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\Abstracto.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\MPP.pdb
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmBuscarJuegosXML.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmClientesVenta.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmConfirmacionCompra.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleado.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleadosGuardar.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleadosMasVentas.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmInformes.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmJuegosPedidos.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmJuegosVendidos.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmLogin.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmPrincipal.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmProveedor.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmProveedorGuardar.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmVenta.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmDashboard.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FormJuego.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FormJuegosGuardar.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.Properties.Resources.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.UC_Log.resources
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CopyComplete
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.exe
+C:\Users\Claw\Desktop\Materias\Materias\3 Año\Tesis\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Integrador_2\obj\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe.config
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Integrador_2.exe
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\BE.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\BLL.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Security.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Abstracto.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\MPP.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\EnvDTE.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\stdole.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\BE.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\BLL.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Security.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Abstracto.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\MPP.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\IU.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmBuscarJuegosXML.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmClientesVenta.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmConfirmacionCompra.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleado.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleadosGuardar.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleadosMasVentas.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmInformes.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmJuegosPedidos.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmJuegosVendidos.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmLogin.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmPrincipal.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmProveedor.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmProveedorGuardar.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmVenta.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmDashboard.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.Properties.Resources.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.UC_Log.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\IU.csproj.GenerateResource.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\IU.csproj.CopyComplete
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.exe
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmBackup.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmVentas.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmEmpleadoVenta.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Resources\atras.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Resources\agregar.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Resources\anadir-al-carrito.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Resources\lupa.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Resources\signo-de-dolar.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Resources\editar.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Resources\eliminar.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Resources\vendedor.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Resources\Sonic-Esperando.gif
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmReporteJuegosPedidos.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\bin\Debug\Resources\EscudoHyliano.jpg
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmJuego.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Integrador_2\obj\Debug\Integrador_2.FmJuegosGuardar.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Resources\atras.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Resources\agregar.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Resources\anadir-al-carrito.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Resources\editar.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Resources\eliminar.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Resources\vendedor.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Resources\lupa.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Resources\signo-de-dolar.png
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Resources\EscudoHyliano.jpg
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Resources\Sonic-Esperando.gif
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Integrador_2.exe.config
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Integrador_2.exe
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Integrador_2.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\BE.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\BLL.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\DB.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Security.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Abstracto.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\MPP.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\EnvDTE.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\stdole.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\BE.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\BLL.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\DB.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Security.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\Abstracto.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\MPP.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\IU.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmBackup.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmBuscarJuegosXML.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmClientesVenta.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmConfirmacionCompra.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmEmpleado.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmEmpleadosGuardar.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmEmpleadosMasVentas.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmEmpleadoVenta.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmInformes.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmJuegosPedidos.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmJuegosVendidos.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmLogin.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmPrincipal.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmProveedor.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmProveedorGuardar.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmReporteJuegosPedidos.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmVenta.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmDashboard.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmVentas.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmJuego.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.FmJuegosGuardar.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.Properties.Resources.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.UC_Log.resources
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\IU.csproj.GenerateResource.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\IU.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\IU.csproj.CopyComplete
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.exe
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\IU\obj\Debug\Integrador_2.pdb
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Resources\atras.png
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Resources\agregar.png
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Resources\anadir-al-carrito.png
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Resources\editar.png
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Resources\eliminar.png
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Resources\vendedor.png
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Resources\lupa.png
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Resources\signo-de-dolar.png
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Resources\EscudoHyliano.jpg
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Resources\Sonic-Esperando.gif
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Integrador_2.exe.config
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Integrador_2.exe
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Integrador_2.pdb
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\BE.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\BLL.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\DB.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Security.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Abstracto.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\MPP.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\EnvDTE.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\stdole.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\BE.pdb
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\BLL.pdb
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\DB.pdb
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Security.pdb
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\Abstracto.pdb
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\MPP.pdb
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmBackup.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmBuscarJuegosXML.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmClientesVenta.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmConfirmacionCompra.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmEmpleado.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmEmpleadosGuardar.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmEmpleadosMasVentas.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmEmpleadoVenta.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmInformes.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmJuegosPedidos.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmJuegosVendidos.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmLogin.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmPrincipal.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmProveedor.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmProveedorGuardar.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmReporteJuegosPedidos.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmVenta.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmDashboard.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmVentas.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmJuego.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.FmJuegosGuardar.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.Properties.Resources.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.UC_Log.resources
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\IU.csproj.CopyComplete
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.exe
+C:\Users\Claw\Desktop\Tp Final\IU\obj\Debug\Integrador_2.pdb
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Resources\atras.png
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Resources\agregar.png
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Resources\anadir-al-carrito.png
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Resources\editar.png
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Resources\eliminar.png
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Resources\vendedor.png
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Resources\lupa.png
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Resources\signo-de-dolar.png
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Resources\EscudoHyliano.jpg
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Resources\Sonic-Esperando.gif
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Integrador_2.exe.config
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Integrador_2.exe
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Integrador_2.pdb
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\BE.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\BLL.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\DB.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Security.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Abstracto.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\MPP.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\EnvDTE.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\stdole.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\BE.pdb
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\BLL.pdb
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\DB.pdb
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Security.pdb
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\Abstracto.pdb
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\MPP.pdb
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\IU.csproj.AssemblyReference.cache
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmBackup.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmBuscarJuegosXML.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmClientesVenta.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmConfirmacionCompra.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmEmpleado.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmEmpleadosGuardar.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmEmpleadosMasVentas.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmEmpleadoVenta.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmInformes.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmJuegosPedidos.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmJuegosVendidos.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmLogin.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmPerfil.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmPrincipal.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmProveedor.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmProveedorGuardar.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmReporteJuegosPedidos.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmVenta.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmDashboard.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmVentas.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmJuego.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.FmJuegosGuardar.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.Properties.Resources.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.UC_Log.resources
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\IU.csproj.GenerateResource.cache
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\IU.csproj.CoreCompileInputs.cache
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\IU.csproj.CopyComplete
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.exe
+F:\Materias\Trabajo Final\Tp Final\IU\obj\Debug\Integrador_2.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Resources\atras.png
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Resources\agregar.png
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Resources\anadir-al-carrito.png
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Resources\editar.png
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Resources\eliminar.png
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Resources\vendedor.png
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Resources\lupa.png
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Resources\signo-de-dolar.png
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Resources\EscudoHyliano.jpg
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Resources\Sonic-Esperando.gif
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Integrador_2.exe.config
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Integrador_2.exe
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Integrador_2.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\BE.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\BLL.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\DB.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Security.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Abstracto.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\MPP.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\EnvDTE.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\stdole.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\BE.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\BLL.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\DB.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Security.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\Abstracto.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\MPP.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmBackup.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmBuscarJuegosXML.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmClientesVenta.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmConfirmacionCompra.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmEmpleado.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmEmpleadosGuardar.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmEmpleadosMasVentas.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmEmpleadoVenta.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmInformes.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmJuegosPedidos.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmJuegosVendidos.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmLogin.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmPerfil.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmPrincipal.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmProveedor.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmProveedorGuardar.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmReporteJuegosPedidos.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmVenta.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmDashboard.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmVentas.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmJuego.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.FmJuegosGuardar.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.Properties.Resources.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.UC_Log.resources
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\IU.csproj.CopyComplete
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.exe
+C:\Users\Claw\Downloads\Final-main\Final-main\IU\obj\Debug\Integrador_2.pdb
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Resources\atras.png
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Resources\agregar.png
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Resources\anadir-al-carrito.png
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Resources\editar.png
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Resources\eliminar.png
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Resources\vendedor.png
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Resources\lupa.png
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Resources\signo-de-dolar.png
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Resources\EscudoHyliano.jpg
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Resources\Sonic-Esperando.gif
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Integrador_2.exe.config
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Integrador_2.exe
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Integrador_2.pdb
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\BE.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\BLL.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\DB.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Security.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Abstracto.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\MPP.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\EnvDTE.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\stdole.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\BE.pdb
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\BLL.pdb
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\DB.pdb
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Security.pdb
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\Abstracto.pdb
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\MPP.pdb
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\IU.csproj.AssemblyReference.cache
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\IU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmBackup.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmBuscarJuegosXML.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmClientesVenta.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmConfirmacionCompra.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmEmpleado.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmEmpleadosGuardar.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmEmpleadosMasVentas.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmEmpleadoVenta.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmInformes.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmJuegosPedidos.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmJuegosVendidos.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmLogin.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmPerfil.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmPrincipal.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmProveedor.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmProveedorGuardar.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmReporteJuegosPedidos.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmVenta.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmDashboard.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmVentas.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmJuego.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.FmJuegosGuardar.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.Properties.Resources.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.UC_Log.resources
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\IU.csproj.GenerateResource.cache
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\IU.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\IU.csproj.CopyComplete
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.exe
+C:\Users\Claw\Downloads\Final-master\Final-master\IU\obj\Debug\Integrador_2.pdb

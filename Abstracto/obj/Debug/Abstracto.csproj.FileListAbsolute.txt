@@ -1,0 +1,18 @@
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Abstracto\bin\Debug\Abstracto.dll
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Abstracto\bin\Debug\Abstracto.pdb
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Abstracto\obj\Debug\Abstracto.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Abstracto\obj\Debug\Abstracto.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Abstracto\obj\Debug\Abstracto.dll
+F:\Materias\LUG\Integrador 2\Tp Integrador 2\Integrador 2\Integrador_2\Abstracto\obj\Debug\Abstracto.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Abstracto\bin\Debug\Abstracto.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Abstracto\bin\Debug\Abstracto.pdb
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Abstracto\obj\Debug\Abstracto.csproj.AssemblyReference.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Abstracto\obj\Debug\Abstracto.csproj.CoreCompileInputs.cache
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Abstracto\obj\Debug\Abstracto.dll
+F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\Abstracto\obj\Debug\Abstracto.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\Abstracto\bin\Debug\Abstracto.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\Abstracto\bin\Debug\Abstracto.pdb
+C:\Users\Claw\Downloads\Final-main\Final-main\Abstracto\obj\Debug\Abstracto.csproj.AssemblyReference.cache
+C:\Users\Claw\Downloads\Final-main\Final-main\Abstracto\obj\Debug\Abstracto.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Downloads\Final-main\Final-main\Abstracto\obj\Debug\Abstracto.dll
+C:\Users\Claw\Downloads\Final-main\Final-main\Abstracto\obj\Debug\Abstracto.pdb

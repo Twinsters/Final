@@ -1,0 +1,17 @@
+2024-11-06 20:44:48 - Error al realizar el backup:  - Error: No se pudo encontrar el archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Empresa.xml'. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 40
+2024-11-06 20:44:53 - Error al realizar el backup:  - Error: No se pudo encontrar el archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Empresa.xml'. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 40
+2024-11-06 20:44:53 - Error al realizar el backup:  - Error: No se pudo encontrar el archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Empresa.xml'. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 40
+2024-11-06 20:45:04 - Error al realizar el backup:  - Error: No se pudo encontrar el archivo 'F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V4\Integrador_2\Empresa.xml'. - StackTrace:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   en System.IO.File.Copy(String sourceFileName, String destFileName)
+   en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 40
+2024-11-06 20:48:16 - Backup creado exitosamente - Backup_20241106_204814.xml

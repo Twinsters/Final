@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<juegos>
+  <juego id="1">
+    <nombre>GTA</nombre>
+    <categoria>Accion</categoria>
+    <plataforma>Play 1</plataforma>
+  </juego>
+  <juego id="2">
+    <nombre>Age of Empires II</nombre>
+    <categoria>Estrategia</categoria>
+    <plataforma>PC Master Race</plataforma>
+  </juego>
+  <juego id="3">
+    <nombre>Mario Market</nombre>
+    <categoria>Aventura</categoria>
+    <plataforma>Nintendo Switch</plataforma>
+    <fecha>0001-01-01T00:00:00</fecha>
+  </juego>
+</juegos>
