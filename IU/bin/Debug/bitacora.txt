@@ -15,3 +15,28 @@
    en System.IO.File.Copy(String sourceFileName, String destFileName)
    en DB.BackupHelper.RealizarBackup() en F:\Materias\LUG\Integrador 2\Integrador 2V5\Integrador 2V5\Integrador_2\DB\Backup.cs:línea 40
 2024-11-06 20:48:16 - Backup creado exitosamente - Backup_20241106_204814.xml
+2024-12-13 16:20:38 - Backup creado exitosamente - Backup_2024-12-13_16-20-37.xml
+2024-12-13 16:57:51 - Domicilio Guardado - ID: 3, Localidad: Quilmes, Calle: Quilmes, Numero:12. Creado por: 1, Admin Admin, DNI: 1
+2024-12-13 16:57:51 - Empleado Guardado - ID: 3, Nombre: Profesor, Tipo Empleado:Profesor.Creado por: 1, Admin Admin, DNI: 1
+2024-12-13 16:59:32 - Perfil Modificado - ID: 4, Nombre: Profesor.Creado por: 3, Profesor Profesor, DNI: 11222333
+2024-12-13 17:01:56 - Backup creado exitosamente - Backup_2024-12-13_17-01-56.xml
+2024-12-13 17:02:15 - Perfil Eliminado - ID: 4. Por Id: 1, Admin Admin, DNI: 1
+2024-12-13 17:02:42 - La base de datos ha sido reemplazada exitosamente con el backup. Por: 1, Admin Admin, DNI: 1
+2024-12-13 17:04:20 - Backup creado exitosamente - Backup_2024-12-13_17-04-20.xml
+2024-12-13 17:05:07 - Domicilio Guardado - ID: 4, Localidad: localidad, Calle: 1688, Numero:15616. Creado por: 1, Admin Admin, DNI: 1
+2024-12-13 17:05:07 - Proveedor Guardado - ID: 1, Nombre: claw. Creado por: 1, Admin Admin, DNI: 1
+2024-12-13 17:05:36 - Juego Guardado - ID: 0, Nombre: Mario, Categoria: Accion, Precio:1537,Plataforma:PC Master Race. Guardado por ID: 1, Admin Admin, DNI: 1
+2024-12-13 17:05:57 - Juego Guardado - ID: 0, Nombre: zelda, Categoria: Aventura, Precio:2500,Plataforma:Nintendo Switch. Guardado por ID: 1, Admin Admin, DNI: 1
+2024-12-13 17:06:17 - Juego Guardado - ID: 0, Nombre: Halo, Categoria: Accion, Precio:5000,Plataforma:XBOX 360. Guardado por ID: 1, Admin Admin, DNI: 1
+2024-12-13 17:06:48 - Cliente Guardado - ID: 0, Nombre: clau, DNI:33884677
+2024-12-13 17:06:48 - Venta realizada - ID: 1, Cliente: 1, Monto: $1.537,00
+2024-12-13 17:06:48 - Registro Guardado - ID Venta: 1, ID Empleado: 1, Admin Admin, DNI 1
+2024-12-13 17:07:11 - Cliente Guardado - ID: 0, Nombre: jose, DNI:11222333
+2024-12-13 17:07:11 - Venta realizada - ID: 2, Cliente: 2, Monto: $5.000,00
+2024-12-13 17:07:11 - Registro Guardado - ID Venta: 2, ID Empleado: 1, Admin Admin, DNI 1
+2024-12-13 17:07:32 - Cliente Guardado - ID: 0, Nombre: pedro, DNI:11222555
+2024-12-13 17:07:33 - Venta realizada - ID: 3, Cliente: 3, Monto: $1.537,00
+2024-12-13 17:07:33 - Registro Guardado - ID Venta: 3, ID Empleado: 1, Admin Admin, DNI 1
+2024-12-19 11:54:26 - Backup creado exitosamente - Backup_2024-12-19_11-54-26.xml
+2024-12-19 11:54:42 - Backup creado exitosamente - Backup_2024-12-19_11-54-42.xml
+2024-12-19 11:55:06 - Backup creado exitosamente - Backup_2024-12-19_11-55-06.xml

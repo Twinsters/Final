@@ -25,9 +25,12 @@ namespace MPP
             beEmpleado = new BEEmpleado();
             
             XElement empleado;
+            Configuracion dbConfiguracion = new Configuracion();
             try
             {
-               
+
+                dbConfiguracion.creacionBaseXml();
+
                 if (File.Exists(ruta))
                 {
                     XDocument xmlDoc = XDocument.Load(ruta);
@@ -167,7 +170,7 @@ namespace MPP
                                 bEEmpleado.FechaNac = fechaNac;
                                 bEEmpleado.Edad = bEEmpleado.Calcular_Edad(fechaNac);
                             }                         
-                            bEEmpleado.Pass = Seguridad.Desencriptar(empleado.Element("pass")?.Value);
+                            bEEmpleado.Pass = empleado.Element("pass")?.Value;
                             bEEmpleado.Estado = Convert.ToChar(empleado.Element("cod_Estado")?.Value);
 
 

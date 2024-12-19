@@ -25,7 +25,12 @@
       "ProjectGuid": "63618668-9f3b-4f60-a8fa-8231245f5f4c",
       "DisplayName": "DB",
       "ColorIndex": 4
+    },
+    "e6be6114-f53d-42fa-858e-2e176d6231a6": {
+      "ProjectGuid": "e6be6114-f53d-42fa-858e-2e176d6231a6",
+      "DisplayName": "Security",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

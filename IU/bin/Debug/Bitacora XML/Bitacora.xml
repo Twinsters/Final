@@ -18,4 +18,46 @@
     <nombreArchivo>Backup_2024-12-13_13-18-12.xml</nombreArchivo>
     <evento>Restore</evento>
   </Registro>
+  <Registro>
+    <usuario>Admin,Admin</usuario>
+    <fechaYHora>13-12-2024 16:20:38</fechaYHora>
+    <nombreArchivo>Backup_2024-12-13_16-20-38.xml</nombreArchivo>
+    <evento>Backup</evento>
+  </Registro>
+  <Registro>
+    <usuario>Profesor,Profesor</usuario>
+    <fechaYHora>13-12-2024 17:01:56</fechaYHora>
+    <nombreArchivo>Backup_2024-12-13_17-01-56.xml</nombreArchivo>
+    <evento>Backup</evento>
+  </Registro>
+  <Registro>
+    <usuario>Admin,Admin</usuario>
+    <fechaYHora>13-12-2024 17:02:42</fechaYHora>
+    <nombreArchivo>Backup_2024-12-13_17-01-56.xml</nombreArchivo>
+    <evento>Restore</evento>
+  </Registro>
+  <Registro>
+    <usuario>Admin,Admin</usuario>
+    <fechaYHora>13-12-2024 17:04:20</fechaYHora>
+    <nombreArchivo>Backup_2024-12-13_17-04-20.xml</nombreArchivo>
+    <evento>Backup</evento>
+  </Registro>
+  <Registro>
+    <usuario>Admin,Admin</usuario>
+    <fechaYHora>19-12-2024 11:54:26</fechaYHora>
+    <nombreArchivo>Backup_2024-12-19_11-54-26.xml</nombreArchivo>
+    <evento>Backup</evento>
+  </Registro>
+  <Registro>
+    <usuario>Admin,Admin</usuario>
+    <fechaYHora>19-12-2024 11:54:42</fechaYHora>
+    <nombreArchivo>Backup_2024-12-19_11-54-42.xml</nombreArchivo>
+    <evento>Backup</evento>
+  </Registro>
+  <Registro>
+    <usuario>Admin,Admin</usuario>
+    <fechaYHora>19-12-2024 11:55:06</fechaYHora>
+    <nombreArchivo>Backup_2024-12-19_11-55-06.xml</nombreArchivo>
+    <evento>Backup</evento>
+  </Registro>
 </Bitacora>

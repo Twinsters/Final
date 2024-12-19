@@ -16,3 +16,9 @@ C:\Users\Claw\Downloads\Final-main\Final-main\Abstracto\obj\Debug\Abstracto.cspr
 C:\Users\Claw\Downloads\Final-main\Final-main\Abstracto\obj\Debug\Abstracto.csproj.CoreCompileInputs.cache
 C:\Users\Claw\Downloads\Final-main\Final-main\Abstracto\obj\Debug\Abstracto.dll
 C:\Users\Claw\Downloads\Final-main\Final-main\Abstracto\obj\Debug\Abstracto.pdb
+C:\Users\Claw\Desktop\Final\Abstracto\bin\Debug\Abstracto.dll
+C:\Users\Claw\Desktop\Final\Abstracto\bin\Debug\Abstracto.pdb
+C:\Users\Claw\Desktop\Final\Abstracto\obj\Debug\Abstracto.csproj.AssemblyReference.cache
+C:\Users\Claw\Desktop\Final\Abstracto\obj\Debug\Abstracto.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Desktop\Final\Abstracto\obj\Debug\Abstracto.dll
+C:\Users\Claw\Desktop\Final\Abstracto\obj\Debug\Abstracto.pdb

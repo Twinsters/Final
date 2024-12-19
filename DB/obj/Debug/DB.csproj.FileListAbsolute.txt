@@ -78,3 +78,14 @@ C:\Users\Claw\Downloads\Final-master\Final-master\DB\obj\Debug\DB.csproj.CoreCom
 C:\Users\Claw\Downloads\Final-master\Final-master\DB\obj\Debug\DB.csproj.CopyComplete
 C:\Users\Claw\Downloads\Final-master\Final-master\DB\obj\Debug\DB.dll
 C:\Users\Claw\Downloads\Final-master\Final-master\DB\obj\Debug\DB.pdb
+C:\Users\Claw\Desktop\Final\DB\bin\Debug\DB.dll
+C:\Users\Claw\Desktop\Final\DB\bin\Debug\DB.pdb
+C:\Users\Claw\Desktop\Final\DB\bin\Debug\BE.dll
+C:\Users\Claw\Desktop\Final\DB\bin\Debug\Abstracto.dll
+C:\Users\Claw\Desktop\Final\DB\bin\Debug\BE.pdb
+C:\Users\Claw\Desktop\Final\DB\bin\Debug\Abstracto.pdb
+C:\Users\Claw\Desktop\Final\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\Claw\Desktop\Final\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\Claw\Desktop\Final\DB\obj\Debug\DB.csproj.CopyComplete
+C:\Users\Claw\Desktop\Final\DB\obj\Debug\DB.dll
+C:\Users\Claw\Desktop\Final\DB\obj\Debug\DB.pdb

@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresa>
+  <Empleados>
+    <Empleado cod_Empleado="1">
+      <nombre>Admin</nombre>
+      <apellido>Admin</apellido>
+      <DNI>1</DNI>
+      <cod_Domicilio>1</cod_Domicilio>
+      <fecha_Nac>2024-10-31</fecha_Nac>
+      <cod_Estado>A</cod_Estado>
+      <tipo_Empleado>2</tipo_Empleado>
+      <pass>Mi23XlTubhw=</pass>
+    </Empleado>
+    <Empleado cod_Empleado="2">
+      <nombre>Preuba</nombre>
+      <apellido>peub</apellido>
+      <DNI>1222333</DNI>
+      <cod_Domicilio>2</cod_Domicilio>
+      <fecha_Nac>1990-06-13</fecha_Nac>
+      <cod_Estado>A</cod_Estado>
+      <tipo_Empleado>3</tipo_Empleado>
+      <pass>vTtmX5kEg2Q=</pass>
+    </Empleado>
+    <Empleado cod_Empleado="3">
+      <nombre>Profesor</nombre>
+      <apellido>Profesor</apellido>
+      <DNI>11222333</DNI>
+      <cod_Domicilio>3</cod_Domicilio>
+      <fecha_Nac>1994-06-15</fecha_Nac>
+      <cod_Estado>A</cod_Estado>
+      <tipo_Empleado>4</tipo_Empleado>
+      <pass>TUrU5YUsfOIrV65WcnquRg==</pass>
+    </Empleado>
+  </Empleados>
+  <Domicilios>
+    <Domicilio cod_Domicilio="1">
+      <calle>0</calle>
+      <numero>0</numero>
+      <localidad>0</localidad>
+    </Domicilio>
+    <Domicilio cod_Domicilio="2">
+      <calle>asdas</calle>
+      <numero>115</numero>
+      <localidad>quilmes</localidad>
+    </Domicilio>
+    <Domicilio cod_Domicilio="3">
+      <calle>Quilmes</calle>
+      <numero>12</numero>
+      <localidad>Quilmes</localidad>
+    </Domicilio>
+  </Domicilios>
+  <Proveedores></Proveedores>
+  <Juegos></Juegos>
+  <Clientes></Clientes>
+  <Ventas></Ventas>
+  <Empleado_Ventas></Empleado_Ventas>
+  <JuegosPedidos>
+    <JuegoPedido cod_JuegoPedido="1">
+      <nombre>Dragon ball z</nombre>
+      <categoria>Lucha</categoria>
+      <plataforma>Play 4</plataforma>
+      <Cantidad>50</Cantidad>
+      <Fecha>2024-11-13 00:56:21</Fecha>
+      <cod_Estado>A</cod_Estado>
+    </JuegoPedido>
+  </JuegosPedidos>
+  <Perfiles>
+    <Perfil cod_Perfil="2">
+      <tipo>Admin</tipo>
+      <cod_Estado>A</cod_Estado>
+    </Perfil>
+    <Perfil cod_Perfil="3">
+      <tipo>Prueba</tipo>
+      <cod_Estado>A</cod_Estado>
+    </Perfil>
+    <Perfil cod_Perfil="4">
+      <tipo>Profesor</tipo>
+      <cod_Estado>E</cod_Estado>
+    </Perfil>
+  </Perfiles>
+  <Permisos>
+    <Permiso>
+      <cod_Perfil>2</cod_Perfil>
+      <permisosHabilitados>Venta</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>2</cod_Perfil>
+      <permisosHabilitados>Informes</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>2</cod_Perfil>
+      <permisosHabilitados>Compras</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>2</cod_Perfil>
+      <permisosHabilitados>Dashboard</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>2</cod_Perfil>
+      <permisosHabilitados>Juegos</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>2</cod_Perfil>
+      <permisosHabilitados>Empleados</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>2</cod_Perfil>
+      <permisosHabilitados>Proveedores</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>2</cod_Perfil>
+      <permisosHabilitados>Ventas</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>2</cod_Perfil>
+      <permisosHabilitados>Backups</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>2</cod_Perfil>
+      <permisosHabilitados>Perfiles</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>3</cod_Perfil>
+      <permisosHabilitados>Dashboard</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>3</cod_Perfil>
+      <permisosHabilitados>Venta</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>3</cod_Perfil>
+      <permisosHabilitados>Compras</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>3</cod_Perfil>
+      <permisosHabilitados>Juegos</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>3</cod_Perfil>
+      <permisosHabilitados>Informes</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>4</cod_Perfil>
+      <permisosHabilitados>Ventas</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>4</cod_Perfil>
+      <permisosHabilitados>Perfiles</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>4</cod_Perfil>
+      <permisosHabilitados>Proveedores</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>4</cod_Perfil>
+      <permisosHabilitados>Juegos</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>4</cod_Perfil>
+      <permisosHabilitados>Backups</permisosHabilitados>
+    </Permiso>
+    <Permiso>
+      <cod_Perfil>4</cod_Perfil>
+      <permisosHabilitados>Empleados</permisosHabilitados>
+    </Permiso>
+  </Permisos>
+</Empresa>
